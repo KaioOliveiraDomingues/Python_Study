@@ -1,0 +1,1 @@
+#Jogo da Forca: Crie um programa que permita que o usuário jogue o jogo da forca, em que ele deve adivinhar a palavra secreta antes de ser enforcado.

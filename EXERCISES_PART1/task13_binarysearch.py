@@ -1,0 +1,1 @@
+#Busca binária: Crie um programa que implemente a busca binária, que é um algoritmo de busca eficiente para encontrar um elemento em uma lista ordenada.

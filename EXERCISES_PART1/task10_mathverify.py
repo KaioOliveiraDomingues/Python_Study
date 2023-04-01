@@ -1,0 +1,1 @@
+#Verificação de parênteses: Crie um programa que verifique se uma expressão matemática contém parênteses balanceados.
