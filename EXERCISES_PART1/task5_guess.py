@@ -1,0 +1,1 @@
+#Adivinhação: Crie um programa que escolha um número aleatório entre 1 e 100 e permita que o usuário adivinhe qual é esse número.
